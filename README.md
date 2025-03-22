@@ -3,8 +3,6 @@ Welcome to My GitHub Profile!
 
  I'm Edwin, a DevOps Engineer and AWS Certified Solutions Architect – Associate with a strong background in cloud computing, automation, and infrastructure migration. I have successfully migrated on-premises legacy systems to the cloud, optimizing performance, scalability, and cost-efficiency while ensuring business continuity.
 
-I specialize in building and managing cloud infrastructure, implementing CI/CD pipelines, and deploying secure and scalable architectures using AWS and modern DevOps tools.
-
  I'm Currently Working On:
   - Developing a serverless event-driven application on AWS, utilizing Lambda, DynamoDB, API Gateway, and EventBridge for real-time processing.
 
