@@ -5,14 +5,6 @@ Welcome to My GitHub Profile!
 
 I specialize in building and managing cloud infrastructure, implementing CI/CD pipelines, and deploying secure and scalable architectures using AWS and modern DevOps tools.
 
-What I Do:
-- Cloud & DevOps Engineering – Designing and managing cloud infrastructure on AWS
-- On-Premises to Cloud Migrations – Successfully migrating legacy systems to AWS
-- Infrastructure as Code (IaC) – Automating deployments with Terraform & CloudFormation
-- CI/CD Automation – Setting up pipelines with Jenkins, GitHub Actions, GitLab CI/CD
-- Containerization & Orchestration – Working with Docker & Kubernetes (EKS)
-- Serverless & Event-Driven Architectures – Building applications using AWS Lambda, SQS, SNS, and EventBridge.
-
  I'm Currently Working On:
   - Developing a serverless event-driven application on AWS, utilizing Lambda, DynamoDB, API Gateway, and EventBridge for real-time processing.
 
